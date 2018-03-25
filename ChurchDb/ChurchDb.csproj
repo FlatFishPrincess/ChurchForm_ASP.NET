@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.1" />
+        
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\ChurchController.cs" />
+    <Compile Remove="Controllers\ChurchController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Church\Create.cshtml" />
+    <None Remove="Views\Church\Details.cshtml" />
+    <None Remove="Views\Church\Delete.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Person\Create %28copy%29.cshtml" />
+    <Content Remove="Views\Person\Create.cshtml" />
+    <Content Remove="Views\Person\Delete.cshtml" />
+    <Content Remove="Views\Person\Details.cshtml" />
+    <Content Remove="Views\Person\Edit.cshtml" />
+  </ItemGroup>
+</Project>

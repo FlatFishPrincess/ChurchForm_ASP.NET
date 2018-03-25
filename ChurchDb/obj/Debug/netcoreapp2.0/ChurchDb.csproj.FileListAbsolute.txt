@@ -1,0 +1,11 @@
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.csprojResolveAssemblyReference.cache
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.csproj.CoreCompileInputs.cache
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.AssemblyInfoInputs.cache
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.AssemblyInfo.cs
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/bin/Debug/netcoreapp2.0/ChurchDb.deps.json
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/bin/Debug/netcoreapp2.0/ChurchDb.runtimeconfig.json
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/bin/Debug/netcoreapp2.0/ChurchDb.runtimeconfig.dev.json
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/bin/Debug/netcoreapp2.0/ChurchDb.dll
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/bin/Debug/netcoreapp2.0/ChurchDb.pdb
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.dll
+/Users/jiweonpark/Projects/ChurchDb/ChurchDb/obj/Debug/netcoreapp2.0/ChurchDb.pdb

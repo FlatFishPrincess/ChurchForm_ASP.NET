@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F9B42957-4A2D-4D65-8E65-593BB97A0926}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChurchDb/Models/PersonDataContext.cs">
+    <Files>
+      <File FileName="ChurchDb/Views/Home/About.cshtml" Line="8" Column="1" />
+      <File FileName="ChurchDb/Models/Person.cs" Line="14" Column="5" />
+      <File FileName="ChurchDb/Controllers/ChurchController.cs" Line="22" Column="10" />
+      <File FileName="ChurchDb/Controllers/HomeController.cs" Line="23" Column="10" />
+      <File FileName="ChurchDb/Models/ErrorViewModel.cs" Line="9" Column="20" />
+      <File FileName="ChurchDb/appsettings.Development.json" Line="1" Column="2" />
+      <File FileName="ChurchDb/Views/Church/Index.cshtml" Line="19" Column="12" />
+      <File FileName="ChurchDb/Models/PersonDataContext.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChurchDb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
